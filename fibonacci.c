@@ -2,7 +2,7 @@
 
 //#define SEQUENCE_OUTPUT
 
-unsigned long long fibonacci(int n);
+unsigned long long fibonacciMemoized(int n);
 
 int main(void)
 {
